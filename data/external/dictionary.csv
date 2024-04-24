@@ -1,0 +1,11 @@
+variavel,descrição,tipo,subtipo
+carat,unidade de peso para diamantes(ct),quantitativa,contínua
+cut,"classificação à respeito da qualidade de lapidação feita, podendo ser Fair, Good, Very Good, Premium, Ideal",qualitativa,nominal
+color,Classificação na escala de cores padrão(D-Z),qualitativa,nominal
+clarity,"Pureza do diamante, referente a presença, visibilidade, número e tamanho de inclusões em um diamante",qualitativa,nominal
+depth,"Profundidade total(parte superior até ponta inferior) dividida pelo diâmetro médio do diamante, em porcentagem",quantitativa,contínua
+table,"Parte superior do diamante dividido pelo diâmetro médio do diamante, em porcentagem",quantitativa,contínua
+price,Preço do diamante em dólares($),quantitativa,contínua
+x,Comprimento em milimetros(mm),quantitativa,contínua
+y,Largura em milimetros(mm),quantitativa,contínua
+z,Altura em milimetros(mm),quantitativa,contínua
